@@ -1,0 +1,36 @@
+body{
+    background: rgb(230, 195, 195);
+}
+
+#acai{
+    max-width: 20%;
+    max-height: 20%;
+    border: 20px  dotted #ff6550;
+    padding: 5px 0 0;
+    margin: 0 0 0;
+}
+
+#panqueca{
+    max-width: 20%;
+    max-height: 20%;
+    border: 20px  dotted #ff6550;
+    padding: 5px 0 0;
+    margin: 0 0 0;
+}
+
+.italico{
+    font-style: italic ;
+}
+
+.pagamento{
+    font-style: italic;
+    
+}
+h1,h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    background: #e29191;
+}
